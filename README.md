@@ -17,5 +17,6 @@ Python programming. with High level Coding
 - Python
 
 ## Author
-Anas Khan, Ayan bilal, Arfat surve, Mishal Shaikh
+Anas Khan, Ayaan bilal, Arfat surve, Mishal Shaikh
 Contribution by <Mishal Shaikh>
+Contribution by <Ayaan bilal>
